@@ -18,7 +18,8 @@ Working student at S01 Projektmanagement GmbH, where I build business apps, work
 | [Portfolio](https://harispaartan.github.io) | Who I am, what I have built and how to reach me |
 | [S01 website demos](https://harispaartan.github.io/s01-demos/) · [repo](https://github.com/HARISPAARTAN/s01-demos) | Six fully navigable DE/EN redesign demos of s01-pm.de, generated from one content source by a Node static generator, with Playwright checks and GitHub Actions deploy |
 | [Orbit](https://github.com/HARISPAARTAN/orbit-career-workspace) | Local Electron career workspace on the open-source Career Ops engine: profiles, pipeline, discovery, CV intake, Claude or Codex agent sessions, five themes |
-| [ML demos](https://harispaartan.github.io/ml-demos/) · [repo](https://github.com/HARISPAARTAN/ml-demos) | Six in-browser machine-learning demos with the maths behind them |
+| [Pixels to Islands](https://harispaartan.github.io/pixels-to-islands/) · [repo](https://github.com/HARISPAARTAN/pixels-to-islands) | Nine-page interactive course on DINO, SelfPatch and my thesis's contrastive rule, with labs on real images |
+| [ML demos](https://harispaartan.github.io/ml-demos/) · [repo](https://github.com/HARISPAARTAN/ml-demos) | Six in-browser machine-learning demos, one page each, with the maths behind them |
 | [Document parser](https://github.com/HARISPAARTAN/document-parser) | Node and React app that extracts fields from PDF identity documents |
 | [Facial recognition attendance](https://github.com/HARISPAARTAN/facial-recognition-attendance) | OpenCV and dlib webcam attendance with a Tkinter GUI |
 
